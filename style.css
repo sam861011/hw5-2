@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    font-family: "Arial","微软雅黑","宋体";
+    font-size: 12px;
+}
+
+header{
+    width: 1280px;
+    background-color: white;
+    background-image: url(pexels-photo-772694.jpeg);
+    background-size: 1280px, auto;
+}
+
+footer{
+    text-align:center;
+}
+
+.top{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.top ul{
+    font-size: 2em;
+    float: right;
+    padding-left: 0;
+}
+
+.top ul ls{
+    padding-left: 40px;
+    padding-right: 10px;
+}
+
+.bulletin{
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.bulletin div{
+    float: right;
+    width: 30%;
+    padding-right: 250px;
+    font-size: 1.25em;
+}
+
+.bulletin div a img{
+    width: 300px;
+}
+
+.bulletin img{
+    float: left;
+    width: 45%;
+}
+
+.news{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.news-title h1{
+    float: left;
+    width: 10%;
+    margin-bottom: 3px;
+}
+
+.news-title p{
+    float: right;
+    width: 3%;
+}
+
+.news-detail{
+    border-top: 1px solid rgb(219, 153, 164);
+}
+
+.news-detail-left{
+    float: left;
+    width: 49%;
+}
+
+.news-detail-right{
+    float: right;
+    width: 49%;
+}
+
+.school{
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-top: 1px solid rgb(219, 153, 164);
+    border-bottom: 1px solid rgb(219, 153, 164);
+    border-left: 1px solid rgb(219, 153, 164);
+    border-right: 1px solid rgb(219, 153, 164);
+}
+
+.school-title{
+    background-color:  rgb(250, 218, 225);
+    font-size: 14px;
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.school-content{
+    float: left;
+}
+
+.school-content ul ls div{
+    margin-right: 12px;
+    float: left;
+}
+
+.school-content ul ls div a p{
+    text-align:center;
+}
+
+.school2 ul{
+    padding-left: 4px;
+}
+
+.school2 ul ls{
+    padding-left: 8px;
+}
+
+.clear{
+    clear: both;
+}
